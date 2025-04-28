@@ -104,4 +104,21 @@ ol.languages li > a{
 }
 /* MAIN END */
 
+/* FOOTER START */
+footer{
+    position:fixed;
+    bottom:0;
+    padding:15px;
+    width:100%;
+    background-color: #f2f2f2;
+    border-top:1px solid #e4e4e4;
+}
+footer ol li{
+    display:inline;
+    padding-right: 30px;
+    color:#676767;
+    font-size:13px;
+}
+/* FOOTER END */
+
 
