@@ -30,7 +30,7 @@ body {
 .header__right{
     display:flex;
     align-items:center;
-    /* min-width:13vw; */
+    min-width:13vw;
     justify-content: space-between;
 }
 .header__right .header__apps{
